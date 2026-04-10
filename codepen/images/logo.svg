@@ -1,0 +1,20 @@
+<svg width="180" height="48" viewBox="0 0 180 48" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 32px;
+      font-weight: 600;
+      letter-spacing: 0.03em;
+      fill: #2b2d42; /* Space Indigo */
+    }
+    .accent {
+      fill: #ef233c; /* Strawberry Red */
+    }
+  </style>
+
+  <!-- Grow -->
+  <text x="0" y="34" class="text">Grow</text>
+
+  <!-- yアクセント -->
+  <text x="95" y="34" class="text accent">y</text>
+</svg>
